@@ -4,4 +4,5 @@ numpy
 requests
 matplotlib
 plotly
+seaborn
 tqdm
